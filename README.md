@@ -37,16 +37,20 @@
 1. 第一阶段硬件环境准备
   * 控制板，自行选择，如 IoT Board，Robomaster，imxRT 等，官方使用 IoT Board；
   * 底盘自行选择，参考底盘：
+  https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.220.61187484ephkBL&id=35831296664
+  https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16331967916.36.26fd22bfp3xr3H&id=550450598518
     
 2. 软件项目准备
   * 熟悉 Git、Github、Markdown
-  * 参考 https://github.com/yqiu2018/pandora_robot，创建自己的 github 仓库
-  * 向 https://github.com/yqiu2018/pandora_robot 提交 pr, 登记信息
-3. 在控制板上移植RT-Thread,FinSH能正常运行
+  * 参考 https://github.com/yqiu2018/pandora_robot 创建自己的 github 仓库
+  * 向 https://github.com/yqiu2018/chariot_notice/blob/master/README.md 提交 pr, 登记信息
+3. 在控制板上移植 RT-Thread,FinSH 能正常运行
+  * 参考 https://github.com/RT-Thread/rt-thread/tree/master/bsp/stm32
   
 4. PWM 驱动或者CAN 驱动调试成功
+  * 参考 https://www.rt-thread.org/document/site/programming-manual/device/pwm/pwm/
 
-  完成文档报告：“[一起 DIY 智能战车]软硬件环境准备”。介绍软硬件环境的准备过程，发布到至少一个熟悉的论坛；完成第一周任务；
+  完成文档报告：“[一起 DIY 智能战车]软硬件环境准备”。介绍软硬件环境的准备过程，提交到 github，发布到至少一个熟悉的论坛；完成第一周任务；
 
 ###  第二周
 
