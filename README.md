@@ -39,9 +39,9 @@
 1. 第一阶段硬件环境准备
   * 控制板，自行选择，如 IoT Board，Robomaster，imxRT 等，官方使用 IoT Board；
   * 底盘自行选择，参考底盘：
-  https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.220.61187484ephkBL&id=35831296664
-  https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16331967916.36.26fd22bfp3xr3H&id=550450598518
-  https://item.taobao.com/item.htm?spm=a230r.1.14.270.7a0174f28TqKvQ&id=591328428603&ns=1&abbucket=12#detail
+    * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.220.61187484ephkBL&id=35831296664
+    * https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16331967916.36.26fd22bfp3xr3H&id=550450598518
+    * https://item.taobao.com/item.htm?spm=a230r.1.14.270.7a0174f28TqKvQ&id=591328428603&ns=1&abbucket=12#detail
     
 2. 软件项目准备
   * 熟悉 Git、Github、Markdown
