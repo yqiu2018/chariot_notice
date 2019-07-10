@@ -33,6 +33,10 @@
     * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.220.61187484ephkBL&id=35831296664
     * https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16331967916.36.26fd22bfp3xr3H&id=550450598518
     * https://item.taobao.com/item.htm?spm=a230r.1.14.270.7a0174f28TqKvQ&id=591328428603&ns=1&abbucket=12#detail
+  * 电机驱动板参考
+    * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.255.61187484ephkBL&id=578999575475
+  * 遥控器自选，PS2 / 航模遥控 / 大疆遥控器，参考：
+    * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.202.61187484ephkBL&id=536581090144
     
 2. 软件项目准备
   * 熟悉 Git、Github、Markdown
