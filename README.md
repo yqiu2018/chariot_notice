@@ -27,6 +27,8 @@
 
 1. 第一阶段硬件环境准备，控制板、车模底盘及其他配件
   * 控制板，自行选择，如 IoT Board，Robomaster，imxRT 等，官方使用 IoT Board；
+    * https://item.taobao.com/item.htm?id=583527145598
+    * https://github.com/RT-Thread/IoT_Board
   * 底盘自行选择，参考底盘：
     * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.220.61187484ephkBL&id=35831296664
     * https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-16331967916.36.26fd22bfp3xr3H&id=550450598518
