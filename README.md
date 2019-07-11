@@ -37,14 +37,15 @@
     * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.255.61187484ephkBL&id=578999575475
   * 遥控器自选，PS2 / 航模遥控 / 大疆遥控器，参考：
     * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.202.61187484ephkBL&id=536581090144
-    
+  
 2. 软件项目准备
   * 熟悉 Git、Github、Markdown
   * 参考 https://github.com/yqiu2018/pandora_robot 创建自己的 github 仓库
   * 向 https://github.com/yqiu2018/chariot_notice/blob/master/README.md 提交 pr, 登记信息
 3. 在控制板上移植 RT-Thread,FinSH 能正常运行
+
   * 参考 https://github.com/RT-Thread/rt-thread/tree/master/bsp/stm32
-  
+
 4. PWM 驱动或者CAN 驱动调试成功
   * 参考 https://www.rt-thread.org/document/site/programming-manual/device/pwm/pwm/
 
@@ -92,10 +93,11 @@
   * 请按时完成任务，原则上第一阶段完成时间不超过6周；
   * 本次活动需花费较多时间，请合理安排时间。
   * 请在微信群中多沟通，大家互相帮助，一起 DIY，一起加油！
-  
+
 ## 智能车项目列表
 
-| 队伍名   | 项目名               | Github 地址                                                  |
-| -------- | -------------------- | ------------------------------------------------------------ |
-| 狂暴战车 | 潘多拉差速智能车     | https://github.com/yqiu2018/pandora_robot/ |
+| 队伍名    | 项目名           | Github 地址                                 |
+| --------- | ---------------- | ------------------------------------------- |
+| 狂暴战车  | 潘多拉差速智能车 | https://github.com/yqiu2018/pandora_robot/  |
+| MiniDream | IFRobot          | https://github.com/leazer/MiniDream_IFRobot |
 
