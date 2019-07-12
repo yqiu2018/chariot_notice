@@ -42,9 +42,13 @@
   * 熟悉 Git、Github、Markdown
   * 参考 https://github.com/yqiu2018/pandora_robot 创建自己的 github 仓库
   * 向 https://github.com/yqiu2018/chariot_notice/blob/master/README.md 提交 pr, 登记信息
+  
 3. 在控制板上移植 RT-Thread,FinSH 能正常运行
-
-  * 参考 https://github.com/RT-Thread/rt-thread/tree/master/bsp/stm32
+  * 使用 RT-Thread 3.1.3 版本，下载地址：https://pan.baidu.com/s/1mgIAyWo#list/path=%2Fsharelink4264488348-458281830578469%2FRT-Thread%E5%8F%91%E5%B8%83&parentPath=%2Fsharelink4264488348-458281830578469
+  * 入门资料： https://www.rt-thread.org/document/site/
+  * API手册：https://www.rt-thread.org/document/api/index.html
+  * STM32 运行：https://github.com/RT-Thread/rt-thread/tree/master/bsp/stm32
+  * ENV工具：ENV工具可以通过以下链接获取：https://pan.baidu.com/s/1cg28rk#list/path=%2F
 
 4. PWM 驱动或者CAN 驱动调试成功
   * 参考 https://www.rt-thread.org/document/site/programming-manual/device/pwm/pwm/
