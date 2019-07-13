@@ -105,4 +105,5 @@
 | 狂暴战车  | 潘多拉差速智能车 | https://github.com/yqiu2018/pandora_robot/  |
 | MiniDream | IFRobot          | https://github.com/leazer/MiniDream_IFRobot |
 | 橘子战队  | juzi_robot       | https://github.com/shenjinpeng/juzi_robot   |
+| 鲲鹏战队  | roc_robot        | https://github.com/Eronwu/roc_robot         |
 
