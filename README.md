@@ -107,4 +107,5 @@
 | 橘子战队  | juzi_robot       | https://github.com/shenjinpeng/juzi_robot   |
 | 鲲鹏战队  | roc_robot        | https://github.com/Eronwu/roc_robot         |
 | 影        | robo_car         | https://github.com/lixing3204/rm_car        |
+| 牛奔奔战队 | miaomiao_car     | https://github.com/XiaojieFan/miaomiao_car  |
 | SnowStorm战队 | snowstorm_car         | https://github.com/bluesky-ryan/snowstorm_car.git |
