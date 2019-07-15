@@ -1,4 +1,4 @@
-# 智能战车 DIY 活动
+﻿# 智能战车 DIY 活动
 
 欢迎大家参与一起 DIY 智能战车活动，本次活动的成果将是制作出一辆属于自己的智能战车，活动过程中，会涉及到方方面面的知识，需要大家持续学习。相关的资料全部开源/开放。
 
@@ -109,3 +109,4 @@
 | 影        | robo_car         | https://github.com/lixing3204/rm_car        |
 | 牛奔奔战队 | miaomiao_car     | https://github.com/XiaojieFan/miaomiao_car  |
 | SnowStorm战队 | snowstorm_car         | https://github.com/bluesky-ryan/snowstorm_car.git |
+| 1+1战队   | 1+1战队的小车     | https://github.com/271359695/xiaoche_car.git  |
