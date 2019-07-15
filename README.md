@@ -109,3 +109,4 @@
 | 影        | robo_car         | https://github.com/lixing3204/rm_car        |
 | 牛奔奔战队 | miaomiao_car     | https://github.com/XiaojieFan/miaomiao_car  |
 | SnowStorm战队 | snowstorm_car         | https://github.com/bluesky-ryan/snowstorm_car.git |
+|我是田甜做梦都想得到的男人|SLAMUGV |https://github.com/HE585858/SLAMUGV.git
