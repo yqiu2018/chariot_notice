@@ -112,3 +112,4 @@
 | 1+1战队   | 1+1战队的小车     | https://github.com/271359695/xiaoche_car.git  |
 |我是田甜做梦都想得到的男人|SLAMUGV |https://github.com/HE585858/SLAMUGV.git
 | 中天战队 | 潘多拉麦克纳姆智能车 | https://github.com/sundm75/pandora_zhongtian_car |
+| 滑稽小队 | funny_car | https://github.com/iamluoyijie/funny_car |
