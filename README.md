@@ -115,3 +115,5 @@
 | 滑稽小队 | funny_car | https://github.com/iamluoyijie/funny_car |
 | 妖魔战队 | 差速三轮车  | https://github.com/yaojinrun/yaomo_car |
 | KeepAhead战舰 | Seven_Robot         | https://github.com/yanchunqing2010/Seven_Robot |
+| ONE_T战队 | 亚博智能战车        | https://github.com/wang84947/4wdcar_stm32103|
+
