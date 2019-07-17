@@ -118,7 +118,7 @@
 | 肥宅快乐队 | 智能履带小车       | https://github.com/wonderword/gaygay |
 | ONE_T战队 | 亚博智能战车        | https://github.com/wang84947/4wdcar_stm32103|
 | air  |   kingcobra_car   | https://github.com/FindYGL/-kingcobra_car |
-
+| 群山之翼  |   block_robot   | https://github.com/work4blue/block-robot |
 ## 参考文献
 
 - [两轮差分动力学模型](docs/two_wheel_differential_drive.pdf)
