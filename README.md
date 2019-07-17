@@ -115,6 +115,7 @@
 | 滑稽小队 | funny_car | https://github.com/iamluoyijie/funny_car |
 | 妖魔战队 | 差速三轮车  | https://github.com/yaojinrun/yaomo_car |
 | KeepAhead战舰 | Seven_Robot         | https://github.com/yanchunqing2010/Seven_Robot |
+| 肥宅快乐队 | 智能履带小车       | https://github.com/wonderword/gaygay |
 | ONE_T战队 | 亚博智能战车        | https://github.com/wang84947/4wdcar_stm32103|
 | air  |   kingcobra_car   | https://github.com/FindYGL/-kingcobra_car |
 
@@ -122,3 +123,4 @@
 
 - [两轮差分动力学模型](docs/two_wheel_differential_drive.pdf)
 - [麦克纳姆轮动力学模型](docs/mecanum.pdf)
+
