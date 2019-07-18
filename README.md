@@ -1,4 +1,4 @@
-# 智能战车 DIY 活动
+﻿# 智能战车 DIY 活动
 
 欢迎大家参与一起 DIY 智能战车活动，本次活动的成果将是制作出一辆属于自己的智能战车，活动过程中，会涉及到方方面面的知识，需要大家持续学习。相关的资料全部开源/开放。
 
@@ -37,12 +37,12 @@
     * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.255.61187484ephkBL&id=578999575475
   * 遥控器自选，PS2 / 航模遥控 / 大疆遥控器，参考：
     * https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.202.61187484ephkBL&id=536581090144
-  
+
 2. 软件项目准备
   * 熟悉 Git、Github、Markdown
   * 参考 https://github.com/yqiu2018/pandora_robot 创建自己的 github 仓库
   * 向 https://github.com/yqiu2018/chariot_notice/blob/master/README.md 提交 pr, 登记信息
-  
+
 3. 在控制板上移植 RT-Thread,FinSH 能正常运行
   * 使用 RT-Thread 3.1.3 版本，下载地址：https://pan.baidu.com/s/1mgIAyWo#list/path=%2Fsharelink4264488348-458281830578469%2FRT-Thread%E5%8F%91%E5%B8%83&parentPath=%2Fsharelink4264488348-458281830578469
   * 入门资料： https://www.rt-thread.org/document/site/
@@ -63,7 +63,7 @@
   * 实现智能车的开环控制功能，智能车能前进/后退/左转/右转
 
   完成文档报告例如：“[一起 DIY 智能战车]创建智能车应用，实现开环控制”。提交到自己的 github 仓库，并发布到至少一个论坛；
-  
+
 ###  第三周
 
 1. 实现遥控器控制功能
@@ -105,4 +105,24 @@
 | 狂暴战车  | 潘多拉差速智能车 | https://github.com/yqiu2018/pandora_robot/  |
 | MiniDream | IFRobot          | https://github.com/leazer/MiniDream_IFRobot |
 | GeekRobot | 麦轮智能车       | https://github.com/michaelzhang1987/GeekRobot.git |
+| 橘子战队  | juzi_robot       | https://github.com/shenjinpeng/juzi_robot   |
+| 鲲鹏战队  | roc_robot        | https://github.com/Eronwu/roc_robot         |
+| 影        | robo_car         | https://github.com/lixing3204/rm_car        |
+| 牛奔奔战队 | miaomiao_car     | https://github.com/XiaojieFan/miaomiao_car  |
+| SnowStorm战队 | snowstorm_car         | https://github.com/bluesky-ryan/snowstorm_car.git |
+| 1+1战队   | 1+1战队的小车     | https://github.com/271359695/xiaoche_car.git  |
+|我是田甜做梦都想得到的男人|SLAMUGV |https://github.com/HE585858/SLAMUGV.git |
+| 中天战队 | 潘多拉麦克纳姆智能车 | https://github.com/sundm75/pandora_zhongtian_car |
+| 滑稽小队 | funny_car | https://github.com/iamluoyijie/funny_car |
+| 妖魔战队 | 差速三轮车  | https://github.com/yaojinrun/yaomo_car |
+| KeepAhead战舰 | Seven_Robot         | https://github.com/yanchunqing2010/Seven_Robot |
+| 肥宅快乐队 | 智能履带小车       | https://github.com/wonderword/gaygay |
+| ONE_T战队 | 亚博智能战车        | https://github.com/wang84947/4wdcar_stm32103|
+| air  |   kingcobra_car   | https://github.com/FindYGL/-kingcobra_car |
+| 群山之翼  |   block_robot   | https://github.com/work4blue/block-robot |
+
+## 参考文献
+
+- [两轮差分动力学模型](docs/two_wheel_differential_drive.pdf)
+- [麦克纳姆轮动力学模型](docs/mecanum.pdf)
 
