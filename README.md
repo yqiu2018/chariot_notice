@@ -104,4 +104,5 @@
 | --------- | ---------------- | ------------------------------------------- |
 | 狂暴战车  | 潘多拉差速智能车 | https://github.com/yqiu2018/pandora_robot/  |
 | MiniDream | IFRobot          | https://github.com/leazer/MiniDream_IFRobot |
+| GeekRobot | 麦轮智能车       | https://github.com/michaelzhang1987/GeekRobot.git |
 
