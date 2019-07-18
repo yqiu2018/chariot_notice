@@ -104,6 +104,7 @@
 | --------- | ---------------- | ------------------------------------------- |
 | 狂暴战车  | 潘多拉差速智能车 | https://github.com/yqiu2018/pandora_robot/  |
 | MiniDream | IFRobot          | https://github.com/leazer/MiniDream_IFRobot |
+| GeekRobot | 麦轮智能车       | https://github.com/michaelzhang1987/GeekRobot.git |
 | 橘子战队  | juzi_robot       | https://github.com/shenjinpeng/juzi_robot   |
 | 鲲鹏战队  | roc_robot        | https://github.com/Eronwu/roc_robot         |
 | 影        | robo_car         | https://github.com/lixing3204/rm_car        |
@@ -119,6 +120,7 @@
 | ONE_T战队 | 亚博智能战车        | https://github.com/wang84947/4wdcar_stm32103|
 | air  |   kingcobra_car   | https://github.com/FindYGL/-kingcobra_car |
 | 群山之翼  |   block_robot   | https://github.com/work4blue/block-robot |
+
 ## 参考文献
 
 - [两轮差分动力学模型](docs/two_wheel_differential_drive.pdf)
