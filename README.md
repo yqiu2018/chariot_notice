@@ -120,6 +120,7 @@
 | ONE_T战队 | 亚博智能战车        | https://github.com/wang84947/4wdcar_stm32103|
 | air  |   kingcobra_car   | https://github.com/FindYGL/-kingcobra_car |
 | 群山之翼  |   block_robot   | https://github.com/work4blue/block-robot |
+| 狂飙的小野马| Rcar | https://github.com/Yangs17/dir_car.git |
 
 ## 参考文献
 
